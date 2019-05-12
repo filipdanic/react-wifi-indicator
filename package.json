@@ -1,10 +1,10 @@
 {
   "name": "react-wifi-indicator",
   "version": "1.0.0",
-  "description": "",
-  "author": "filipdanic",
+  "description": "An easy-to-use wrapper that provides 6 different WiFi icons and a utility to convert raw dBm to signal strength categories.",
+  "author": "http://danicfilip.com/",
   "license": "MIT",
-  "repository": "filipdanic/react-wifi-indicator",
+  "repository": "http://github.com/filipdanic/react-wifi-indicator",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
