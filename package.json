@@ -1,6 +1,6 @@
 {
   "name": "react-wifi-indicator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An easy-to-use wrapper that provides 6 different WiFi icons and a utility to convert raw dBm to signal strength categories.",
   "author": "http://danicfilip.com/",
   "license": "MIT",
