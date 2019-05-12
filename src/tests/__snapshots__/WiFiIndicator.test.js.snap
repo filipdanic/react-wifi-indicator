@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot #1 matches 1`] = `
+<img
+  alt=""
+  src="EXCELLENT.svg"
+  style={
+    Object {
+      "height": "3em",
+    }
+  }
+/>
+`;
+
+exports[`snapshot #2 matches 1`] = `
+<img
+  alt="Awesome WiFi Signal"
+  className="wifi-icon"
+  src="GREAT.svg"
+  style={
+    Object {
+      "display": "block",
+      "height": "240px",
+    }
+  }
+/>
+`;
+
+exports[`snapshot #3 matches 1`] = `
+<img
+  alt=""
+  src="EXCELLENT.svg"
+  style={
+    Object {
+      "height": "3em",
+    }
+  }
+/>
+`;
+
+exports[`snapshot #4 matches 1`] = `
+<img
+  alt=""
+  src="demo.png"
+  style={
+    Object {
+      "height": "3em",
+    }
+  }
+/>
+`;
