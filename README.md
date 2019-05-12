@@ -4,6 +4,8 @@
 
 An easy-to-use wrapper that provides 6 different WiFi icons and a utility to convert raw `dBm` to signal strength categories.
 
+[👉 Demo site and docs.](https://filipdanic.github.io/react-wifi-indicator/)
+
 ## Quick Start
 
 First, install the module:
